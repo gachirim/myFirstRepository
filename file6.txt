@@ -1,1 +1,4 @@
 file 6 on local
+
+file 6 on remote
+
